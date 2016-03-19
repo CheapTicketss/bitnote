@@ -1,7 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic);
+
 $body-bg: #e67e22;
+$font-family: 'Roboto Condensed', sans-serif;
 $navbar-default-bg: #3498db;
 $navbar-default-link-color: white;
 $jumbotron-bg: #ecf0f1;
 
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
